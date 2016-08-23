@@ -25,6 +25,7 @@
 *.maf
 *.mtc
 *.mtc0
+*.dat
 .ipynb_checkpoints
 *~
 \#*
